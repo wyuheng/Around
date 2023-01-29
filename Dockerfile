@@ -1,5 +1,5 @@
 FROM golang:1.17
-MAINTAINER sean@laioffer.com
+MAINTAINER yuheng_wang00@163.com
 
 
 WORKDIR /go/src/around
